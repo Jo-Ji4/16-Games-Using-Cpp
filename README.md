@@ -38,7 +38,7 @@ Each game has its own unique features and challenges, with individual game logic
 
 ## Features
 
-- Written entirely in C, compatible with most modern CPP compilers.
+- Written entirely in CPP, compatible with most modern CPP compilers.
 - Text-based user interface for a retro, console-based experience.
 - Simple, self-contained code for easy study and modification.
 - Educational value for beginners and intermediates to explore different aspects of game programming and CPP.
