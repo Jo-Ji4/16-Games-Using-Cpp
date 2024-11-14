@@ -1,6 +1,6 @@
 # 16 Games
 
-This repository contains a collection of 16 classic games, each recreated in C. These games are console-based and serve as an excellent resource for studying basic game logic, algorithmic thinking, and C programming concepts.
+This repository contains a collection of 16 classic games, each recreated in CPP. These games are console-based and serve as an excellent resource for studying basic game logic, algorithmic thinking, and CPP programming concepts.
 
 ## Table of Contents
 
@@ -34,14 +34,14 @@ The following games are implemented in this repository:
 15. **Tetris** – Arrange blocks to clear lines.
 16. **Pacman** – Navigate through a maze while avoiding ghosts.
 
-Each game has its own unique features and challenges, with individual game logic implemented in C.
+Each game has its own unique features and challenges, with individual game logic implemented in CPP.
 
 ## Features
 
-- Written entirely in C, compatible with most modern C compilers.
+- Written entirely in C, compatible with most modern CPP compilers.
 - Text-based user interface for a retro, console-based experience.
 - Simple, self-contained code for easy study and modification.
-- Educational value for beginners and intermediates to explore different aspects of game programming and C.
+- Educational value for beginners and intermediates to explore different aspects of game programming and CPP.
 
 ## Installation
 
